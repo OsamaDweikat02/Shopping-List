@@ -9,7 +9,7 @@ const categories = {
   ),
   Categories.fruit: Category(
     'Fruit',
-    Color.fromARGB(255, 145, 255, 0),
+    Color.fromARGB(255, 145, 255, 1),
   ),
   Categories.meat: Category(
     'Meat',
